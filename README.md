@@ -1,4 +1,4 @@
-# list-1, implement fixed-size array list, following the project structure in this repository.
-You only need to add code to list.c and test code in main.c
-You only need to submit list.c file
+# tree-1, implement link based tree, following the project structure in this repository.
+You only need to add code to tree.c and test code in main.c
+You only need to submit tree.c file
 
